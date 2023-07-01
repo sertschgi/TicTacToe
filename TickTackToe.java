@@ -177,5 +177,3 @@ public class TickTackToe
     }
   }
 }
-
-// gitlab.schule.gymb.de:3000/baechtleC/9c
